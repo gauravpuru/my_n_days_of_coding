@@ -1,0 +1,5 @@
+The day 02 is an copy from the 
+
+Udemy course :- Deep Learning Boootcamp with 4 capstone projects
+
+The Section 6 :- Stock Market Prediction
